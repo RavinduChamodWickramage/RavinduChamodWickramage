@@ -122,7 +122,7 @@
   
 **Project Manager**: Project Thuru 2.0
 
-### **Rotaract Club of University of Alumni** (2023-2024)
+### **Rotaract Club of University of Alumni** (2022-2023)
 
 **Team Leader**: Digital Media Avenue
   
@@ -145,7 +145,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravinduchamodwickramage&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ravinduchamodwickramage&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br>
+  <p>👀 People are watching you! 👀</p>
 </div>
 
 <div align="center">
