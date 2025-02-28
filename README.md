@@ -35,12 +35,12 @@
 
 <div align="center">
   
-- 🎓 BSc in Physical Science with Second Class - Upper Division
-- 📚 Completed MERN Stack Certification at University of Colombo School of Computing
-- 💻 Completed Advanced Web Development Certification at University of Colombo School of Computing
-- 🌱 Currently pursuing Software Developer Certification at ICET
-- 📫 Reach me at: **ravinduchamod1@gmail.com** | +94 71 481 1327
-- ⚡ Fun fact: You can call me **'Wicky'**
+🎓 BSc in Physical Science with Second Class - Upper Division
+📚 Completed MERN Stack Certification at University of Colombo School of Computing
+💻 Completed Advanced Web Development Certification at University of Colombo School of Computing
+🌱 Currently pursuing Software Developer Certification at ICET
+📫 Reach me at: **ravinduchamod1@gmail.com** | +94 71 481 1327
+⚡ Fun fact: You can call me **'Wicky'**
   
 </div>
 
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-### **Rotaract Club of University of Kelaniya** (2021-2023)
+### **LEO Club of University of Kelaniya** (2021-2023)
   
 **Project Co-Chair**: Project Thuru 1.0
   
@@ -123,12 +123,14 @@
 **Project Manager**: Project Thuru 2.0
 
 ### **Rotaract Club of University of Alumni** (2023-2024)
-  
-**Public Relation Director**
-  
+
 **Team Leader**: Digital Media Avenue
   
 **Public Relations Coordinator** for multiple projects
+
+### **Rotaract Club of University of Alumni** (2023-2024)
+  
+**Public Relation Director**
 
 ### **LEO Club of University of Kelaniya** (2021-2023)
   
@@ -146,7 +148,6 @@
   <img src="https://komarev.com/ghpvc/?username=ravinduchamodwickramage&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
-<!-- Snake animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
