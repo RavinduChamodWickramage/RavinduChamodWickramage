@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduchamodwickramage&theme=tokyonight&hide_border=true&bg_color=0D1117&line=5E81AC&point=FFD700&area=true&area_color=5E81AC&title_color=FFFFFF&color=FFFFFF&duration=1_year" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduchamodwickramage&theme=tokyonight&hide_border=true&bg_color=0D1117&line=5E81AC&point=FFD700&area=true&area_color=5E81AC&title_color=FFFFFF&color=FFFFFF&duration=6_months" alt="GitHub Activity Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-### **LEO Club of University of Kelaniya** (2021-2023)
+### **<span style="color: yellow;">LEO Club of University of Kelaniya</span>** (2021-2023)
   
 **Project Co-Chair**: Project Thuru 1.0
   
@@ -126,17 +126,17 @@
   
 **Project Manager**: Project Thuru 2.0
 
-### **Rotaract Club of University of Alumni** (2022-2023)
+### **<span style="color: yellow;">Rotaract Club of University of Alumni</span>** (2022-2023)
 
 **Team Leader**: Digital Media Avenue
   
 **Public Relations Coordinator** for multiple projects
 
-### **Rotaract Club of University of Alumni** (2023-2024)
+### **<span style="color: yellow;">Rotaract Club of University of Alumni</span>** (2023-2024)
   
 **Public Relation Director**
 
-### **LEO Club of University of Kelaniya** (2021-2023)
+### **<span style="color: yellow;">LEO Club of University of Kelaniya</span>** (2021-2023)
   
 **Received award for Best Public Relation Coordinator** (Term 2022-23)
 
