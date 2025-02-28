@@ -35,7 +35,7 @@
 
 <div align="center">
   
-🎓 BSc in Physical Science with Second Class - Upper Division </ br>
+🎓 BSc in Physical Science with Second Class - Upper Division <be></br>
 📚 Completed MERN Stack Certification at University of Colombo School of Computing </ br>
 💻 Completed Advanced Web Development Certification at University of Colombo School of Computing </ br>
 🌱 Currently pursuing Software Developer Certification at ICET </ br>
