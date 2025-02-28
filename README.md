@@ -116,7 +116,7 @@
 
 <div align="center">
 
-### **<span style="color: yellow;">LEO Club of University of Kelaniya</span>** (2021-2023)
+### **LEO Club of University of Kelaniya** (2021-2023)
   
 **Project Co-Chair**: Project Thuru 1.0
   
@@ -126,17 +126,17 @@
   
 **Project Manager**: Project Thuru 2.0
 
-### **<span style="color: yellow;">Rotaract Club of University of Alumni</span>** (2022-2023)
+### **Rotaract Club of University of Alumni** (2022-2023)
 
 **Team Leader**: Digital Media Avenue
   
 **Public Relations Coordinator** for multiple projects
 
-### **<span style="color: yellow;">Rotaract Club of University of Alumni</span>** (2023-2024)
+### **Rotaract Club of University of Alumni** (2023-2024)
   
 **Public Relation Director**
 
-### **<span style="color: yellow;">LEO Club of University of Kelaniya</span>** (2021-2023)
+### **LEO Club of University of Kelaniya** (2021-2023)
   
 **Received award for Best Public Relation Coordinator** (Term 2022-23)
 
