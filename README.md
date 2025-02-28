@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduchamodwickramage&theme=tokyonight&hide_border=true&bg_color=0D1117&line=5E81AC&point=FFD700&area=true&area_color=5E81AC&title_color=FFFFFF&color=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduchamodwickramage&theme=tokyonight&hide_border=true&bg_color=0D1117&line=5E81AC&point=FFD700&area=true&area_color=5E81AC&title_color=FFFFFF&color=FFFFFF&duration=1_year" alt="GitHub Activity Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
