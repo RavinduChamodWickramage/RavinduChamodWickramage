@@ -106,10 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduchamodwickramage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&animated=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinduchamodwickramage&theme=tokyonight&hide_border=true&bg_color=0D1117&line=5E81AC&point=FFD700&area=true&area_color=5E81AC&title_color=FFFFFF&color=FFFFFF&duration=6_months" alt="GitHub Activity Graph" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <div align="center">👨‍💼 Volunteering Experience</div>
@@ -144,8 +140,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&animated=true" alt="GitHub Trophy" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&animated=true" alt="GitHub Trophy" style="display: flex; justify-content: space-between; align-items: center; width: 100%;" />
 </div>
 
 <div align="center">
