@@ -144,8 +144,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&animated=true" alt="GitHub Trophy" />
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&rank=SECRET&animated=true" alt="First Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&rank=SSS&animated=true" alt="Second Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&rank=SS&animated=true" alt="Third Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&rank=S&animated=true" alt="Fourth Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&rank=AAA&animated=true" alt="Fifth Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&rank=AA&animated=true" alt="Sixth Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&rank=A&animated=true" alt="Seventh Trophy" />
 </div>
 
 <div align="center">
