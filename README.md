@@ -35,11 +35,11 @@
 
 <div align="center">
   
-🎓 BSc in Physical Science with Second Class - Upper Division <be></br>
-📚 Completed MERN Stack Certification at University of Colombo School of Computing </ br>
-💻 Completed Advanced Web Development Certification at University of Colombo School of Computing </ br>
-🌱 Currently pursuing Software Developer Certification at ICET </ br>
-📫 Reach me at: **ravinduchamod1@gmail.com** | +94 71 481 1327 </ br>
+🎓 BSc in Physical Science with Second Class - Upper Division <br></br>
+📚 Completed MERN Stack Certification at University of Colombo School of Computing <br></br>
+💻 Completed Advanced Web Development Certification at University of Colombo School of Computing <br></br>
+🌱 Currently pursuing Software Developer Certification at ICET <br></br>
+📫 Reach me at: **ravinduchamod1@gmail.com** | +94 71 481 1327 <br></br>
 ⚡ Fun fact: You can call me **'Wicky'**
   
 </div>
