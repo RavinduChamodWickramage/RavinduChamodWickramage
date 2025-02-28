@@ -130,24 +130,23 @@
 
 ### **Rotaract Club of University of Alumni** (2023-2024)
   
-**Public Relation Director**
+**Public Relations Director**
 
 ### **LEO Club of University of Kelaniya** (2021-2023)
   
-**Received award for Best Public Relation Coordinator** (Term 2022-23)
+**Received award for Best Public Relations Coordinator** (Term 2022-23)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&animated=true" alt="GitHub Trophy" style="display: flex; justify-content: space-between; align-items: center; width: 100%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduchamodwickramage&theme=nord&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&animated=true" alt="GitHub Trophy" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ravinduchamodwickramage&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br>
-  <p>👀 People are watching you! 👀</p>
 </div>
 
 <div align="center">
