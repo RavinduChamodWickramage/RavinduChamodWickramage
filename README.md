@@ -1,7 +1,7 @@
 # <div align="center">Ravindu Chamod Wickramage</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=435&lines=Software+Developer+Enthusiast;Java+Enthusiast;Spring+Boot+Enthusiast;React+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Java+%26+Spring+Boot+Specialist;MERN+Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,14 +30,16 @@
 ## <div align="center">💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 <p align="center">
-  Passionate Software Developer dedicated to creating impactful solutions and enhancing user experiences. Committed to innovation and continuous skill growth in software engineering.
+  Trainee/Intern Software Developer with a BSc in Physical Science (Computer Science, Statistics, Pure Mathematics) from the University of Kelaniya. Passionate about creating impactful solutions and delivering exceptional user experiences. Committed to innovation and continuous skill development in software engineering.
 </p>
 
 <div align="center">
   
-- 🌱 Currently learning **Next.js**
-- 💬 Ask me about **Java, Spring Boot, React**
-- 📫 Reach me at: **ravinduchamod1@gmail.com**
+- 🎓 BSc in Physical Science with Second Class - Upper Division
+- 📚 Completed MERN Stack Training at University of Colombo School of Computing
+- 💻 Completed Advanced Multimedia Web Design & Development Techniques Program
+- 🌱 Currently pursuing Software Developer Certification at ICET
+- 📫 Reach me at: **ravinduchamod1@gmail.com** | +94 71 481 1327
 - ⚡ Fun fact: You can call me **'Wicky'**
   
 </div>
@@ -54,12 +56,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### ⚙️ Backend Technologies
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,6 +79,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -90,6 +106,28 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduchamodwickramage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <div align="center">👨‍💼 Volunteering Experience</div>
+
+<div align="center">
+  
+- **Rotaract Club of University of Kelaniya** (2021-2023)
+  - Project Co-Chair: Project Thuru 1.0
+  - Event Coordinator: Project Sayuru 1.0
+  - Public Relations & Marketing Coordinator
+  - Project Manager: Project Thuru 2.0
+
+- **Rotaract Club of University of Alumni** (2023-2024)
+  - Public Relation Director
+  - Team Leader: Digital Media Avenue
+  - Public Relations Coordinator for multiple projects
+  
+- **LEO Club of University of Kelaniya** (2021-2023)
+  - Received award for Best Public Relation Coordinator (Term 2022-23)
+  
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
