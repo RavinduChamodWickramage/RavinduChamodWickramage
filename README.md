@@ -33,7 +33,7 @@
   Passionate about creating impactful solutions and delivering exceptional user experiences. Committed to innovation and continuous skill development in software engineering.
 </p>
 
-<div align="center">
+<div align="left">
   
 - 🎓 BSc in Physical Science with Second Class - Upper Division
 - 📚 Completed MERN Stack Training at University of Colombo School of Computing
@@ -110,7 +110,7 @@
 
 ## <div align="center">👨‍💼 Volunteering Experience</div>
 
-<div align="center">
+<div align="left">
 
 ### **Rotaract Club of University of Kelaniya** (2021-2023)
   
