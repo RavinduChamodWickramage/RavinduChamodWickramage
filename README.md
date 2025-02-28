@@ -33,11 +33,11 @@
   Passionate about creating impactful solutions and delivering exceptional user experiences. Committed to innovation and continuous skill development in software engineering.
 </p>
 
-<div align="left">
+<div align="center">
   
 - 🎓 BSc in Physical Science with Second Class - Upper Division
-- 📚 Completed MERN Stack Training at University of Colombo School of Computing
-- 💻 Completed Advanced Multimedia Web Design & Development Techniques Program at University of Colombo School of Computing
+- 📚 Completed MERN Stack Certification at University of Colombo School of Computing
+- 💻 Completed Advanced Web Development Certification at University of Colombo School of Computing
 - 🌱 Currently pursuing Software Developer Certification at ICET
 - 📫 Reach me at: **ravinduchamod1@gmail.com** | +94 71 481 1327
 - ⚡ Fun fact: You can call me **'Wicky'**
@@ -110,37 +110,29 @@
 
 ## <div align="center">👨‍💼 Volunteering Experience</div>
 
-<div align="left">
+<div align="center">
 
 ### **Rotaract Club of University of Kelaniya** (2021-2023)
   
-- **Project Co-Chair**: Project Thuru 1.0
-  ![Project Management](https://img.shields.io/badge/Project_Management-FF6F61?style=for-the-badge&logo=trello&logoColor=white)
+**Project Co-Chair**: Project Thuru 1.0
   
-- **Event Coordinator**: Project Sayuru 1.0
-  ![Event Management](https://img.shields.io/badge/Event_Management-FFD700?style=for-the-badge&logo=eventbrite&logoColor=white)
+**Event Coordinator**: Project Sayuru 1.0
   
-- **Public Relations & Marketing Coordinator**
-  ![Public Relations](https://img.shields.io/badge/Public_Relations-4A90E2?style=for-the-badge&logo=megaphone&logoColor=white)
+**Public Relations & Marketing Coordinator**
   
-- **Project Manager**: Project Thuru 2.0
-  ![Project Management](https://img.shields.io/badge/Project_Management-FF6F61?style=for-the-badge&logo=trello&logoColor=white)
+**Project Manager**: Project Thuru 2.0
 
 ### **Rotaract Club of University of Alumni** (2023-2024)
   
-- **Public Relation Director**
-  ![Public Relations](https://img.shields.io/badge/Public_Relations-4A90E2?style=for-the-badge&logo=megaphone&logoColor=white)
+**Public Relation Director**
   
-- **Team Leader**: Digital Media Avenue
-  ![Team Leadership](https://img.shields.io/badge/Team_Leadership-00BFFF?style=for-the-badge&logo=teamwork&logoColor=white)
+**Team Leader**: Digital Media Avenue
   
-- **Public Relations Coordinator** for multiple projects
-  ![Public Relations](https://img.shields.io/badge/Public_Relations-4A90E2?style=for-the-badge&logo=megaphone&logoColor=white)
+**Public Relations Coordinator** for multiple projects
 
 ### **LEO Club of University of Kelaniya** (2021-2023)
   
-- **Received award for Best Public Relation Coordinator** (Term 2022-23)
-  ![Award](https://img.shields.io/badge/Award-FFD700?style=for-the-badge&logo=trophy&logoColor=white)
+**Received award for Best Public Relation Coordinator** (Term 2022-23)
 
 </div>
 
