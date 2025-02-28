@@ -1,4 +1,8 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Ravindu+Wickramage;Full-Stack+Developer;Software+Engineer;Java+%26+React+Expert" alt="Typing SVG" /></div>
+# <div align="center">Ravindu Chamod Wickramage</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=435&lines=Software+Developer+Enthusiast;Java+Enthusiast;Spring+Boot+Enthusiast;React+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://ravinduwickramageportfolio.web.app">
