@@ -30,14 +30,14 @@
 ## <div align="center">💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 <p align="center">
-  Trainee/Intern Software Developer with a BSc in Physical Science (Computer Science, Statistics, Pure Mathematics) from the University of Kelaniya. Passionate about creating impactful solutions and delivering exceptional user experiences. Committed to innovation and continuous skill development in software engineering.
+  Passionate about creating impactful solutions and delivering exceptional user experiences. Committed to innovation and continuous skill development in software engineering.
 </p>
 
 <div align="center">
   
 - 🎓 BSc in Physical Science with Second Class - Upper Division
 - 📚 Completed MERN Stack Training at University of Colombo School of Computing
-- 💻 Completed Advanced Multimedia Web Design & Development Techniques Program
+- 💻 Completed Advanced Multimedia Web Design & Development Techniques Program at University of Colombo School of Computing
 - 🌱 Currently pursuing Software Developer Certification at ICET
 - 📫 Reach me at: **ravinduchamod1@gmail.com** | +94 71 481 1327
 - ⚡ Fun fact: You can call me **'Wicky'**
@@ -56,7 +56,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🚀 Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -112,21 +111,37 @@
 ## <div align="center">👨‍💼 Volunteering Experience</div>
 
 <div align="center">
-  
-- **Rotaract Club of University of Kelaniya** (2021-2023)
-  - Project Co-Chair: Project Thuru 1.0
-  - Event Coordinator: Project Sayuru 1.0
-  - Public Relations & Marketing Coordinator
-  - Project Manager: Project Thuru 2.0
 
-- **Rotaract Club of University of Alumni** (2023-2024)
-  - Public Relation Director
-  - Team Leader: Digital Media Avenue
-  - Public Relations Coordinator for multiple projects
+### **Rotaract Club of University of Kelaniya** (2021-2023)
   
-- **LEO Club of University of Kelaniya** (2021-2023)
-  - Received award for Best Public Relation Coordinator (Term 2022-23)
+- **Project Co-Chair**: Project Thuru 1.0
+  ![Project Management](https://img.shields.io/badge/Project_Management-FF6F61?style=for-the-badge&logo=trello&logoColor=white)
   
+- **Event Coordinator**: Project Sayuru 1.0
+  ![Event Management](https://img.shields.io/badge/Event_Management-FFD700?style=for-the-badge&logo=eventbrite&logoColor=white)
+  
+- **Public Relations & Marketing Coordinator**
+  ![Public Relations](https://img.shields.io/badge/Public_Relations-4A90E2?style=for-the-badge&logo=megaphone&logoColor=white)
+  
+- **Project Manager**: Project Thuru 2.0
+  ![Project Management](https://img.shields.io/badge/Project_Management-FF6F61?style=for-the-badge&logo=trello&logoColor=white)
+
+### **Rotaract Club of University of Alumni** (2023-2024)
+  
+- **Public Relation Director**
+  ![Public Relations](https://img.shields.io/badge/Public_Relations-4A90E2?style=for-the-badge&logo=megaphone&logoColor=white)
+  
+- **Team Leader**: Digital Media Avenue
+  ![Team Leadership](https://img.shields.io/badge/Team_Leadership-00BFFF?style=for-the-badge&logo=teamwork&logoColor=white)
+  
+- **Public Relations Coordinator** for multiple projects
+  ![Public Relations](https://img.shields.io/badge/Public_Relations-4A90E2?style=for-the-badge&logo=megaphone&logoColor=white)
+
+### **LEO Club of University of Kelaniya** (2021-2023)
+  
+- **Received award for Best Public Relation Coordinator** (Term 2022-23)
+  ![Award](https://img.shields.io/badge/Award-FFD700?style=for-the-badge&logo=trophy&logoColor=white)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
