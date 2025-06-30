@@ -1,7 +1,7 @@
 # <div align="center">Ravindu Chamod Wickramage</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=435&lines=Software+Quality+Assurance+Engineer;Test+Automation+Specialist;Performance+Testing+Enthusiast;Agile+and+Scrum+Practitioner;DevOps+Mindset+QA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=435&lines=Software+Quality+Assurance+Engineer+Enthusiast;Performance+Testing+Enthusiast;Agile+and+Scrum+Practitioner;DevOps+Mindset+QA" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 ## <div align="center">💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 <p align="center">
-  Passionate about creating impactful solutions and delivering exceptional user experiences. Committed to innovation and continuous skill development in software engineering.
+  Detail-oriented and quality-driven aspiring QA Engineer with a strong foundation in software development. Committed to ensuring software reliability, enhancing user experience through testing, and continuously improving skills in manual testing, API validation, and defect reporting.
 </p>
 
 <div align="center">
